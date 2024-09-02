@@ -1,6 +1,6 @@
 {
-  "name": "node_1",
-  "version": "1.0.0",
+  "name": "@george.avsa/node_1",
+  "version": "1.0.1",
   "description": "node js task",
   "main": "index.js",
   "scripts": {
