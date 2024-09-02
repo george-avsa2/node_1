@@ -1,0 +1,20 @@
+{
+  "name": "node_1",
+  "version": "1.0.0",
+  "description": "node js task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-avsa2/node_1.git"
+  },
+  "author": "george-avsa2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-avsa2/node_1/issues"
+  },
+  "homepage": "https://github.com/george-avsa2/node_1#readme"
+}
