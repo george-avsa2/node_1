@@ -1,8 +1,7 @@
 var pjson = require("./package.json");
 
-console.log(`Hello, current version is ${pjson.version}`);
-
 function countReversePolishNotation(str) {
+  console.log(`Hello, current version is ${pjson.version}`);
   const stack = [];
   const lolkek = str.split(" ");
   lolkek.forEach((lol) => {
